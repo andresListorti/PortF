@@ -1,0 +1,25 @@
+.projectCard-wrapper {
+    width: 300px;
+    margin-top: 3%;
+    border: 1px solid #393E46;
+    background-color: #eee;
+}
+
+.top img {
+    width: 100%;
+}
+
+.bottom a {
+    text-decoration: none;
+    color: #393E46;
+    display: block;
+    margin: 25px 0px 15px 15px;
+}
+
+.bottom a:hover {
+    text-decoration: underline;
+}
+
+.bottom:active {
+    color: #00ADB5;
+}
