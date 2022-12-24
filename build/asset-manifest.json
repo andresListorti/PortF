@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0be88e2c.chunk.css",
+    "main.js": "/static/js/main.ffa70a0d.chunk.js",
+    "main.js.map": "/static/js/main.ffa70a0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.141ec577.js",
+    "runtime-main.js.map": "/static/js/runtime-main.141ec577.js.map",
+    "static/js/2.0a0f50f3.chunk.js": "/static/js/2.0a0f50f3.chunk.js",
+    "static/js/2.0a0f50f3.chunk.js.map": "/static/js/2.0a0f50f3.chunk.js.map",
+    "static/js/3.947eb9de.chunk.js": "/static/js/3.947eb9de.chunk.js",
+    "static/js/3.947eb9de.chunk.js.map": "/static/js/3.947eb9de.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0be88e2c.chunk.css.map": "/static/css/main.0be88e2c.chunk.css.map",
+    "static/js/2.0a0f50f3.chunk.js.LICENSE.txt": "/static/js/2.0a0f50f3.chunk.js.LICENSE.txt",
+    "static/media/CV.8ecb05ba.jpeg": "/static/media/CV.8ecb05ba.jpeg",
+    "static/media/card11.b7953daa.png": "/static/media/card11.b7953daa.png",
+    "static/media/card22.da85de1f.png": "/static/media/card22.da85de1f.png",
+    "static/media/card33.09af514c.png": "/static/media/card33.09af514c.png",
+    "static/media/card44.8242951a.png": "/static/media/card44.8242951a.png",
+    "static/media/card55.b8c174ad.png": "/static/media/card55.b8c174ad.png",
+    "static/media/card66.2d79a09b.png": "/static/media/card66.2d79a09b.png",
+    "static/media/card77.ae7b354f.png": "/static/media/card77.ae7b354f.png",
+    "static/media/card88.0a5e2963.png": "/static/media/card88.0a5e2963.png",
+    "static/media/card9.349f6b49.png": "/static/media/card9.349f6b49.png",
+    "static/media/landing1.bbb20760.png": "/static/media/landing1.bbb20760.png",
+    "static/media/landing2.a02c1e42.png": "/static/media/landing2.a02c1e42.png",
+    "static/media/landing3.c7e8f0d4.png": "/static/media/landing3.c7e8f0d4.png",
+    "static/media/landing4.1eadfbf6.png": "/static/media/landing4.1eadfbf6.png",
+    "static/media/landing5.139a9470.png": "/static/media/landing5.139a9470.png",
+    "static/media/landing6.8ebc1302.png": "/static/media/landing6.8ebc1302.png",
+    "static/media/landing7.bf2d3fce.png": "/static/media/landing7.bf2d3fce.png",
+    "static/media/landing8.80aed532.png": "/static/media/landing8.80aed532.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141ec577.js",
+    "static/js/2.0a0f50f3.chunk.js",
+    "static/css/main.0be88e2c.chunk.css",
+    "static/js/main.ffa70a0d.chunk.js"
+  ]
+}
