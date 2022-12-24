@@ -4,8 +4,9 @@ import card3 from "../img/project_images/card33.png";
 import card4 from "../img/project_images/card44.png";
 import card5 from "../img/project_images/card55.png";
 import card6 from "../img/project_images/card66.png";
-import card7 from "../img/project_images/card7.png";
-import card8 from "../img/project_images/card8.png";
+import card7 from "../img/project_images/card77.png";
+import card8 from "../img/project_images/card88.png";
+// import card8 from "../img/project_images/card8.png";
 import card9 from "../img/project_images/card9.png";
 import landing1 from "../img/project_images/landing1.png";
 import landing2 from "../img/project_images/landing2.png";
@@ -28,9 +29,19 @@ export const projects_data = [
     projectLink: "https://menu-resto-ertp99.netlify.app/",
   },
   {
+    projectName: "Movies App",
+    img_src: `${card7}`,
+    projectLink: "https://movies-app186.netlify.app/",
+  },
+  {
     projectName: "Calculator",
     img_src: `${card3}`,
     projectLink: "https://calculadora-pochistica-22.netlify.app/",
+  },
+  {
+    projectName: "Card Game",
+    img_src: `${card8}`,
+    projectLink: "https://hit-the-as-77aa.netlify.app/",
   },
   {
     projectName: "Modal",
