@@ -11,7 +11,7 @@ const Header = () => {
     <section className="header">
       <header>
         <div className="photo">
-          <img src={myPicture} alt="picture of andres" />
+          <img src={myPicture} alt="" />
         </div>
         <div className="title">
           <h1>Andrés Listorti</h1>
