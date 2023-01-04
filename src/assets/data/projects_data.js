@@ -8,14 +8,14 @@ import card7 from "../img/project_images/card77.png";
 import card8 from "../img/project_images/card88.png";
 // import card8 from "../img/project_images/card8.png";
 import card9 from "../img/project_images/card99.png";
-import landing1 from "../img/project_images/landing1.png";
-import landing2 from "../img/project_images/landing2.png";
-import landing3 from "../img/project_images/landing3.png";
-import landing4 from "../img/project_images/landing4.png";
-import landing5 from "../img/project_images/landing5.png";
-import landing6 from "../img/project_images/landing6.png";
-import landing7 from "../img/project_images/landing7.png";
-import landing8 from "../img/project_images/landing8.png";
+// import landing1 from "../img/project_images/landing1.png";
+// import landing2 from "../img/project_images/landing2.png";
+// import landing3 from "../img/project_images/landing3.png";
+// import landing4 from "../img/project_images/landing4.png";
+// import landing5 from "../img/project_images/landing5.png";
+// import landing6 from "../img/project_images/landing6.png";
+// import landing7 from "../img/project_images/landing7.png";
+// import landing8 from "../img/project_images/landing8.png";
 
 export const projects_data = [
   {
