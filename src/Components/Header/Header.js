@@ -1,6 +1,6 @@
 import React from "react";
 import "../Header/header.css";
-import myPicture from "../../assets/img/CV.jpeg";
+import myPicture from "../../assets/img/CV.jpg";
 
 const Header = () => {
   // const solo = 'sos'
